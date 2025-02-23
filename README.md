@@ -6,9 +6,8 @@
 
 
 ## 📝 소개
-백엔드 깃 레파지토리의 README.md를 빠르게 작성하기 위해 만든 템플릿입니다.
+통합관리 시스템입니다. 
 
-다음과 같은 내용을 작성할 수 있습니다.
 - 프로젝트 소개
 - 개발 기간
 - 주요 기능
@@ -22,10 +21,11 @@
 <br />
 
 ## 프로젝트 소개 
-- Version 1: Student Mangement System
- 
+### Version 1: Student Mangement System
 - 학생 관리 시스템으로 학생의 정보를 입력 받고 저장, 검색, 정렬하는 기능을 제공합니다.
-- Version 2: 
+
+### Version 2: Management System
+- 직원 관리 시스템과 학생 관리 시스템을 통합해 통합 관리 시스템을 구현합니다. 
 
 
 <br />
@@ -48,6 +48,8 @@ V1(Student Management System)
 - 학생 정보 검색
   
 - 학생 정보 정렬
+
+V2
 
 <br>
 
@@ -99,6 +101,8 @@ https://github.com/user-attachments/assets/144a989c-220e-42ce-bdef-b27c8acc689f
 <br />
 
 ## 🤔 기술적 이슈와 해결 과정
+
+
 
 
 
