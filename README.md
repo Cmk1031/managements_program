@@ -24,4 +24,4 @@
   
 - 학생 정보 정렬
 
-- ![GIFMaker_me](https://github.com/user-attachments/assets/63c97524-07ce-450c-9824-f3763b0bdaee)
+![GIFMaker_me (1)](https://github.com/user-attachments/assets/6326cbe5-4df9-4a0a-9a60-41b5b9e79eb2)
