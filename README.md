@@ -24,4 +24,22 @@
   
 - 학생 정보 정렬
 
-![GIFMaker_me (1)](https://github.com/user-attachments/assets/6326cbe5-4df9-4a0a-9a60-41b5b9e79eb2)
+## 시연 영상
+
+- 학생 정보 입력
+  
+https://github.com/user-attachments/assets/1be88a44-40a5-4622-b291-575d76a72d0e
+
+- 학생 정보 검색
+
+https://github.com/user-attachments/assets/ffc600f9-b006-41a9-90a3-f8c4ceab6bc8
+
+- 학생 정보 정렬
+
+https://github.com/user-attachments/assets/144a989c-220e-42ce-bdef-b27c8acc689f
+
+
+
+
+
+
